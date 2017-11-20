@@ -16031,5 +16031,6 @@
 127.0.0.1	tpc.googlesyndication.com
 127.0.0.1	adclick.g.doubleclick.net
 127.0.0.1	googleads.g.doubleclick.net
-127.0.0.1 adsimg.kompas.com
-127.0.0.1 img.ads.kompas.com
+127.0.0.1	adsimg.kompas.com
+127.0.0.1	img.ads.kompas.com
+127.0.0.1 qq338ff.com
