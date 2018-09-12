@@ -7179,4 +7179,5 @@
 127.0.0.1	track.adspruce.com
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	x.bidswitch.net
+127.0.0.1 broapfrn.com
 
