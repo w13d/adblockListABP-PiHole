@@ -1,4 +1,10 @@
-# adblockListABP-PiHole
+# AdblockListABP-PiHole
 
 List adblock Indonesia 
-Pi-hole block list
+
+`TARGET` : Pi-hole block list
+
+List.txt : general block
+Spotify.txt : block iklan spotify (testing)
+
+
