@@ -40,3 +40,13 @@ video-ad-stats.googlesyndication.com
 weblb-wg.gslb.spotify.com
 www.googleadservices.com
 www.googletagservices.com
+audio-fa.spotify.com
+audio-sp-sin2.spotify.com
+audio2.spotify.com
+audio4-ak.spotify.com.edgesuite.net
+beta.spotify.map.fastly.net
+gae2-accesspoint-b-kxb8.ap.spotify.com
+heads-fa.scdn.co
+i.scdn.co
+prod.spotify.map.fastlylb.net
+sto3-accesspoint-a88.sto3.spotify.net
