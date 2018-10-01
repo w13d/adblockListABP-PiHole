@@ -7180,4 +7180,6 @@
 127.0.0.1	www.googletagmanager.com
 127.0.0.1	x.bidswitch.net
 127.0.0.1 broapfrn.com
+127.0.0.1 ads.pubmatic.com
+127.0.0.1 scdn.cxense.com
 
